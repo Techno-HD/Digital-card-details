@@ -1,0 +1,11 @@
+facebook  :- https://www.facebook.com/dhvanik.viradiya
+
+youtube   :- https://www.youtube.com/channel/UCZw3ieZqAYJ3XM-eywERjpA?sub_confirmation=1
+
+Whatsapp  :- https://api.whatsapp.com/send?phone=911234567890&text=Hello dear friends
+
+Instagram :- https://www.instagram.com/dj_viradiya/
+
+Call      :- tel:+911234567890
+
+Mail      :- mailto:xyz@gmail.com
